@@ -1,3 +1,3 @@
-<!-- TITLE: Willkommen auf der Wissensdatenbank der Studenten der Chinesischen Medizin -->
+<!-- TITLE: Willkommen auf der Wissensdatenbank -->
 
 # Header
